@@ -1,4 +1,3 @@
-````markdown name=README.md
 ## Hi there 👋
 
 I'm **FindFirstChildOfClass/nahhkandy or Fin's alt!**, a passionate Roblox developer dedicated to creating immersive and engaging experiences on the Roblox platform.
